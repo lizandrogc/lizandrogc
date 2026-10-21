@@ -1,16 +1,22 @@
-## Hi there 👋
+# Lizandro C.
 
-<!--
-**lizandrogc/lizandrogc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems Student @ [UFG](https://www.ufg.br)
 
-Here are some ideas to get you started:
+Focused on low-level concepts, algorithms, and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Featured Repositories
+* [`algorithms-and-data-structures`](https://github.com/lizandrogc/algorithms-and-data-structures) — Data structures and algorithm implementations in C.
+
+---
+
+### Programmers I Like
+* [Fábio Akita](https://github.com/akitaonrails)
+* [Ian Dvorin (Magicalbat)](https://github.com/Magicalbat)
+
+---
+
+### Connect & Find Me
+* **Instagram:** [@gc.lizandro](https://instagram.com/gc.lizandro)
+* **Location:** Palmeirs de Goiás, GO - Brazil
