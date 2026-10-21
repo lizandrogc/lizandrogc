@@ -19,4 +19,4 @@ Focused on low-level concepts, algorithms, and software engineering.
 
 ### Connect & Find Me
 * **Instagram:** [@gc.lizandro](https://instagram.com/gc.lizandro)
-* **Location:** Palmeirs de Goiás, GO - Brazil
+* **Location:** Palmeiras de Goiás, GO - Brazil
