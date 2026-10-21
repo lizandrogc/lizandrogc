@@ -15,8 +15,3 @@ Focused on low-level concepts, algorithms, and software engineering.
 * [Fábio Akita](https://github.com/akitaonrails)
 * [Ian Dvorin (Magicalbat)](https://github.com/Magicalbat)
 
----
-
-### Connect & Find Me
-* **Instagram:** [@gc.lizandro](https://instagram.com/gc.lizandro)
-* **Location:** Palmeiras de Goiás, GO - Brazil
